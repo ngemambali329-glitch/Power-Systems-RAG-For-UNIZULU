@@ -1,5 +1,6 @@
 streamlit
-langchain
-faiss-cpu
 PyPDF2
-openai
+faiss-cpu
+sentence-transformers
+transformers
+torch
